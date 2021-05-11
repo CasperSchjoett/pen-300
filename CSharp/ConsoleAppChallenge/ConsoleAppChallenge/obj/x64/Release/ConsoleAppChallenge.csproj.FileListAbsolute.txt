@@ -1,0 +1,7 @@
+C:\Users\capper\Desktop\Courses\PEN-300\ConsoleAppChallenge\ConsoleAppChallenge\bin\x64\Release\ConsoleAppChallenge.exe.config
+C:\Users\capper\Desktop\Courses\PEN-300\ConsoleAppChallenge\ConsoleAppChallenge\bin\x64\Release\ConsoleAppChallenge.exe
+C:\Users\capper\Desktop\Courses\PEN-300\ConsoleAppChallenge\ConsoleAppChallenge\bin\x64\Release\ConsoleAppChallenge.pdb
+C:\Users\capper\Desktop\Courses\PEN-300\ConsoleAppChallenge\ConsoleAppChallenge\obj\x64\Release\ConsoleAppChallenge.csproj.CoreCompileInputs.cache
+C:\Users\capper\Desktop\Courses\PEN-300\ConsoleAppChallenge\ConsoleAppChallenge\obj\x64\Release\ConsoleAppChallenge.exe
+C:\Users\capper\Desktop\Courses\PEN-300\ConsoleAppChallenge\ConsoleAppChallenge\obj\x64\Release\ConsoleAppChallenge.pdb
+C:\Users\capper\Desktop\Courses\PEN-300\ConsoleAppChallenge\ConsoleAppChallenge\obj\x64\Release\ConsoleAppChallenge.csprojAssemblyReference.cache

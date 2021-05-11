@@ -1,0 +1,7 @@
+C:\Users\capper\Desktop\Courses\PEN-300\lat2\lat2\bin\x64\Release\lat2.exe.config
+C:\Users\capper\Desktop\Courses\PEN-300\lat2\lat2\bin\x64\Release\lat2.exe
+C:\Users\capper\Desktop\Courses\PEN-300\lat2\lat2\bin\x64\Release\lat2.pdb
+C:\Users\capper\Desktop\Courses\PEN-300\lat2\lat2\obj\x64\Release\lat2.csprojAssemblyReference.cache
+C:\Users\capper\Desktop\Courses\PEN-300\lat2\lat2\obj\x64\Release\lat2.csproj.CoreCompileInputs.cache
+C:\Users\capper\Desktop\Courses\PEN-300\lat2\lat2\obj\x64\Release\lat2.exe
+C:\Users\capper\Desktop\Courses\PEN-300\lat2\lat2\obj\x64\Release\lat2.pdb
