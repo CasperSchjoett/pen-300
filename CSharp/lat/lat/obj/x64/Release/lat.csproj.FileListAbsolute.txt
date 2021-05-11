@@ -1,7 +1,0 @@
-C:\Users\capper\Desktop\Courses\PEN-300\lat\lat\bin\x64\Release\lat.exe.config
-C:\Users\capper\Desktop\Courses\PEN-300\lat\lat\bin\x64\Release\lat.exe
-C:\Users\capper\Desktop\Courses\PEN-300\lat\lat\bin\x64\Release\lat.pdb
-C:\Users\capper\Desktop\Courses\PEN-300\lat\lat\obj\x64\Release\lat.csprojAssemblyReference.cache
-C:\Users\capper\Desktop\Courses\PEN-300\lat\lat\obj\x64\Release\lat.csproj.CoreCompileInputs.cache
-C:\Users\capper\Desktop\Courses\PEN-300\lat\lat\obj\x64\Release\lat.exe
-C:\Users\capper\Desktop\Courses\PEN-300\lat\lat\obj\x64\Release\lat.pdb
