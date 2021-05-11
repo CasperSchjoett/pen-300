@@ -1,7 +1,0 @@
-C:\Users\capper\Desktop\Courses\PEN-300\LatInject\LatInject\bin\x64\Release\LatInject.exe.config
-C:\Users\capper\Desktop\Courses\PEN-300\LatInject\LatInject\bin\x64\Release\LatInject.exe
-C:\Users\capper\Desktop\Courses\PEN-300\LatInject\LatInject\bin\x64\Release\LatInject.pdb
-C:\Users\capper\Desktop\Courses\PEN-300\LatInject\LatInject\obj\x64\Release\LatInject.csprojAssemblyReference.cache
-C:\Users\capper\Desktop\Courses\PEN-300\LatInject\LatInject\obj\x64\Release\LatInject.csproj.CoreCompileInputs.cache
-C:\Users\capper\Desktop\Courses\PEN-300\LatInject\LatInject\obj\x64\Release\LatInject.exe
-C:\Users\capper\Desktop\Courses\PEN-300\LatInject\LatInject\obj\x64\Release\LatInject.pdb

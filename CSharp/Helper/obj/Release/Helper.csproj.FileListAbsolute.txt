@@ -1,7 +1,0 @@
-C:\Users\capper\Desktop\Courses\PEN-300\Helper\bin\Release\Helper.exe.config
-C:\Users\capper\Desktop\Courses\PEN-300\Helper\bin\Release\Helper.exe
-C:\Users\capper\Desktop\Courses\PEN-300\Helper\bin\Release\Helper.pdb
-C:\Users\capper\Desktop\Courses\PEN-300\Helper\obj\Release\Helper.csprojAssemblyReference.cache
-C:\Users\capper\Desktop\Courses\PEN-300\Helper\obj\Release\Helper.csproj.CoreCompileInputs.cache
-C:\Users\capper\Desktop\Courses\PEN-300\Helper\obj\Release\Helper.exe
-C:\Users\capper\Desktop\Courses\PEN-300\Helper\obj\Release\Helper.pdb
