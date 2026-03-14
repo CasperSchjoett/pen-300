@@ -25,3 +25,32 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Sensitive / environment files
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.*
+secrets.*
+
+# Metasploit / payload artifacts
+*.rc
+*.raw
+*.bin
+*.veil
+
+# Cobalt Strike
+*.cna
+*.cobaltstrike*
+
+# IDE
+.vscode/
+.idea/
+
+# Linux
+*~
+*.swp
+*.swo
